@@ -30,9 +30,7 @@ Seeking an internship where I can apply my skills to solve real-world data probl
 
 ---
 
-## 🚀 Featured Projects
 
-[See all my repositories!](https://github.com/e5can0r?tab=repositories)
 
 ---
 
