@@ -37,8 +37,7 @@ Seeking an internship where I can apply my skills to solve real-world data probl
 ## 📫 Contact Me
 
 - **Email:** ashishghildiyal9465@gmail.com
-- **Codeforces:** [_Psy_Duck](https://codeforces.com/profile/_Psy_Duck)
-- **LeetCode:** [Ashishghildiyal](https://leetcode.com/u/Ashishghildiyal/)
+
 
 ---
 
